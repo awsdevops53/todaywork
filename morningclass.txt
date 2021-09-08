@@ -2,3 +2,6 @@ subjects today
 devopsengg
 oracle
 java
+aws 
+database
+cloning
